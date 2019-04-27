@@ -1,3 +1,3 @@
-# Desafio 1 GoStack 6.0
+# 1º Desafio GoStack 6.0
 
-Primeiro desfio do bootcamp GoStack.
+Código do primeiro desafio do módulo de NodeJS do Bootcamp.
