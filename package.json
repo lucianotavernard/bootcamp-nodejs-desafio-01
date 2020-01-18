@@ -2,6 +2,10 @@
   "name": "desafio-nodejs-01",
   "version": "1.0.0",
   "main": "index.js",
+  "author": {
+    "name": "Luciano Tavernard",
+    "email": "lucianotavernard@gmail.com"
+  },
   "license": "MIT",
   "scripts": {
     "dev": "nodemon",
